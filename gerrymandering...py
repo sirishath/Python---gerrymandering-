@@ -1,22 +1,3 @@
-"""
-Name: Sirisha Thapa
-Date: 23rd Oct, 2023
-CSC 201
-Project 2-Gerrymandering
-
-This programs analyzes the voting in the state entered by the user for a particular election
-whose data is stored in a file. The program displays that voting data from that state by district
-in a stacked bar chart, displays the statistics by district used to determine gerrymandering,
-and computes whether there was gerrymandering in this election in favor of the Democrats or Republicans.
-
-Document Assistance: (who and what  OR  declare that you gave or received no assistance):
-I took help from Professor Mueller helped me clear my issue of naming convection and
-I also took help from stack exchange,  and previous lab works to find the formula for calculating total window height.
-
-
-
-"""
-
 from graphics2 import *
 
 # variables in SCREAMING_SNAKE_CASE remains constant and unchangeable throughout the code 
